@@ -401,7 +401,7 @@ span{
     }
 }
 
-@media (max-width: 750px) {
+@media (max-width: 740px) {
     #menu-icon{
         display: block;
     }
